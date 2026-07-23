@@ -1,0 +1,6 @@
+python-telegram-bot==22.3
+requests
+fastapi
+uvicorn
+python-dotenv
+aiosqlite
